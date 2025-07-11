@@ -26,7 +26,7 @@ Brainy Check is a full-stack AI-powered web application for early detection of *
 
 ### 💁 Receptionist Dashboard
 ![Receptionist](./client/my-app/src/assets/projectpreview/Receptionist.png)
-![Schedule Appointment](./client/my-app/src/assets/projectpreview/schedulesppointment.png)
+![Schedule Appointment](./client/my-app/src/assets/projectpreview/scheduleappointment.png)
 
 ---
 
