@@ -2,7 +2,7 @@
 
 Brainy Check is a full-stack AI-powered web application for early detection of **Alzheimer’s Disease** and **Brain Tumors** from MRI scans. It features a prediction system using deep learning, along with role-based dashboards for Admins, Doctors, and Receptionists.
 
-![Brainy Check Preview](./client/my-app/src/assets/homepage.png)
+![Brainy Check Preview](./client/my-app/src/assets/projectpreview/homepage.png)
 
 ---
 
@@ -15,14 +15,14 @@ Brainy Check is a full-stack AI-powered web application for early detection of *
 ## 🖼️ Preview
 
 ### 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](./client/my-app/src/assets/projectpreview/doctor.png)
+![Doctor Dashboard](./client/my-app/src/assets/projectpreview/adddoctor.png)
 
 ### 🧪 Prediction Page
-![Prediction](./client/my-app/src/assets/projectpreview/predict.png)
-![Prediction result](./client/my-app/src/assets/projectpreview/predictresult.png)
+![Prediction](./client/my-app/src/assets/projectpreview/prediction.png)
+![Prediction result](./client/my-app/src/assets/projectpreview/predictionresult.png)
 
 ### 💁 Receptionist Dashboard
-![Receptionist](./client/my-app/src/assets/projectpreview/receptionist.png)
+![Receptionist](./client/my-app/src/assets/projectpreview/Receptionist.png)
 
 ---
 
