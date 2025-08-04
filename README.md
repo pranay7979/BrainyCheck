@@ -8,13 +8,6 @@ Brainy Check is a full-stack AI-powered web application for early detection of *
 
 
 ---
-
-## 🚀 Live Demo
-
-> 🔗 [Visit Live on Render](https://brainycheck.onrender.com) *(replace with your link)*
-
----
-
 ## 🖼️ Preview
 
 ### 👨‍⚕️ Doctor Dashboard
