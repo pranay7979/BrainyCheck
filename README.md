@@ -25,12 +25,12 @@ Brainy Check is a full-stack AI-powered web application for early detection of *
 
 ## ✨ Features
 
-- 🔐 Role-based login for Admin, Doctor, and Receptionist
-- 🧠 AI-powered MRI scan classification (Alzheimer’s, Tumor)
-- 📊 Admin dashboard to manage doctors and appointments
-- 📅 Appointment scheduling system for staff
-- 🗂️ Firestore integration to save patient and scan records
-- 📈 Responsive design with Material UI
+- Role-based login for Admin, Doctor, and Receptionist
+- AI-powered MRI scan classification (Alzheimer’s, Tumor)
+- Admin dashboard to manage doctors and appointments
+- Appointment scheduling system for staff
+- Firestore integration to save patient and scan records
+- Responsive design with Material UI
 
 ---
 
